@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1000px" height="800px" viewBox="0 0 1000 800" enable-background="new 0 0 1000 800" xml:space="preserve">
+<radialGradient id="SVGID_1_" cx="504" cy="765.5" r="423.9818" gradientTransform="matrix(1 0 0 1.5626 0 -430.6449)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFF200"/>
+	<stop  offset="0.8992" style="stop-color:#FFF200;stop-opacity:0.1008"/>
+	<stop  offset="1" style="stop-color:#FFF200;stop-opacity:0"/>
+</radialGradient>
+<rect x="25" y="42" fill="url(#SVGID_1_)" width="946" height="737"/>
+<path fill="#EF4136" d="M454,780C421,755,12,348,13,351s-0.002,429-0.002,429H454z"/>
+<path fill="#EF4136" d="M464.001,775C462.001,772,13,207,13,207V20h171L464.001,775z"/>
+<polygon fill="#EF4136" points="500,780 294,20 596,20 "/>
+<polygon fill="#EF4136" points="516,780 680,20 986,20 "/>
+<a href="http://www.blc.edu">
+<polygon fill="olive" points="530,780 986,245 986,453 "/>
+</a>
+<!-- Note that I couldn't get this hypertext link to work. It's not HTML after all. -->
+<polygon fill="#EF4136" points="550,780 986,780 986,527 "/>
+<g>
+	<defs>
+		<rect id="SVGID_2_" x="179" y="518" width="594" height="263"/>
+	</defs>
+	<clipPath id="SVGID_3_">
+		<use xlink:href="#SVGID_2_"  overflow="visible"/>
+	</clipPath>
+	<circle clip-path="url(#SVGID_3_)" fill="#FBB040" cx="500" cy="780" r="242"/>
+</g>
+</svg>
